@@ -9,15 +9,13 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Thoughts**: Fairly easy review. 
 
-**Link to work**: 
-
 ### Day 2 - Tuesday 27th September 2022
 
-**Today's Progress**: Learn how to use Git on the command line. 
+**Today's Progress**: Learn how to use Git on the command line, including push/pull workflow with a partner.
 
 **Thoughts**: Quite fun and feels far more efficient than using a heavy Git GUI like I have been the past few years. 
 
-**Link to work**: 
+**Link to work**: [Romeo and Juili-Git](https://github.com/SchoolOfCode/w1d2_workshop_romeo-and-juili-git-aandb)
 
 ### Day 3 - Wednesday 28th September 2022
 
@@ -25,7 +23,7 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Thoughts**: Fairly simple and logical.
 
-**Link to work**: 
+**Link to work**: [JS 101](https://github.com/SchoolOfCode/w1d3_workshop_js-101-aandb), [JS 102](https://github.com/SchoolOfCode/w1d3_workshop_js-102-aandb)
 
 ### Day 4 - Thursday 29th September 2022
 
@@ -33,16 +31,94 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Thoughts**: Enjoyable if a bit easy. 
 
-**Link to work**: 
+**Link to work**: [Arrays](https://github.com/SchoolOfCode/w1d4_workshop_js-arrays-aandb), [Objects](https://github.com/SchoolOfCode/w1d4_workshop_js-objects-aandb)
 
 ### Day 5 - Friday 30th September 2022
 
-**Today's Progress**: First hackathon all day.
+**Today's Progress**: First all day hackathon.
 
 **Thoughts**: Nice little challenge, but not very difficult.
 
+**Link to work**: [Building a rock, paper, scissors app in JavaScript](https://github.com/SchoolOfCode/w1_hackathon_rock-paper-scissors-aandb)
+
+### Day 6 - Monday 3rd October 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [DOM 101](https://github.com/SchoolOfCode/bc13_w2d1_workshop_dom-101-room-42-aaron-and-fenton), [DOM 102](https://github.com/SchoolOfCode/bc13_w2d1_workshop_dom-102-room-42-aaron-and-fenton), [Intro to CodeWars](https://github.com/SchoolOfCode/bc13_w2d1_workshop_intro-to-codewars-room-42-aaron-and-fenton)
+
+### Day 7 - Tuesday 4th October 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Rock Paper Scissors, DOM Edition](https://github.com/SchoolOfCode/bc13_w2d2_workshop_rps-dom-room-42-aaron-and-fenton), [DOM Events](https://github.com/SchoolOfCode/w2d2_workshop_dom-events-room-42-aaron-and-fenton)
+
+### Day 8 - Wednesday 5th October 2022
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Async clock](https://github.com/SchoolOfCode/bc13_w2d3_workshop_async-clock-room-42-aaron-and-fenton), [Talking to servers using `fetch()`](https://github.com/SchoolOfCode/bc13_w2d3_workshop_talking-to-servers-with-fetch-room-42-aaron-and-fenton)
+
+### Day 9 - Thursday 6th October 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Navigating Data](https://github.com/SchoolOfCode/bc13_w2d4_workshop_navigating-data-room-42-aaron-and-fenton)
+
+### Day 10 - Friday 7th October 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: [Created an app that can fetch data from a cloud API based on a user's query](https://github.com/SchoolOfCode/bc13_w2d5_hackathon_fetch-room-42-aaron-and-fenton)
+
+### Day 11 - Monday 10th October 2022
+
+**Today's Progress**: Created a 10 second elevator pitch/intro for myself. Started hacking on Frontend Mentor challenges to use CSS, HTML and JS to build designs. Learn a lot about Agile development, UI and UX. Made a basic webpage without previewing the page once until I'd finished coding it.
+
+**Thoughts**: Much less intensive than last week already, but I don't feel very confident in my design skills, especially CSS.
+
+**Link to work**: [Basic webpage](https://github.com/SchoolOfCode/bc13_w3d1_workshop_not-light-aaron-and-mohamed-room-41)
+
+### Day 12 - Tuesday 11th October 2022
+
+**Today's Progress**: Learnt a lot about the 5-stage design process and design thinking. Then learn how to use CSS variables.
+
+**Thoughts**: Design thinking is quite interesting, and I can see now why designers and developers are typically two distinct roles, there's a lot to cover and specialise in. Definitely a lot to keep in mind when designing projects in the future.
+
+**Link to work**: [CSS variables workshop](https://github.com/SchoolOfCode/bc13_w3d2_workshop_css-variables-aaron-and-mohamed-room-41)
+
+### Day 13 - Wednesday 12th October 2022
+
+**Today's Progress**: Learnt about UI, UX, wireframing and CSS organisation.
+
+**Thoughts**: Lots of interesting topics today. Figma is something I should intend to use lots in the future for designing. CSS Diner was great practice for using CSS selectors. Learn about SASS and other CSS frameworks briefly mentioned. 
+
 **Link to work**: 
 
+### Day 14 - Thursday 13th October 2022
+
+**Today's Progress**: Learn some advanced CSS including flexbox and responsive design. Presentation on using user interviews during the design process.
+
+**Thoughts**: Review other flexbox resources - haven't quite got this yet. My skill in CSS is slowly improving but I need more practice.
+
+**Link to work**: 
+
+### Day 15 - Friday 14th October 2022
+
+**Today's Progress**: Hackathon day, built a high fidelity wireframe using Figma and then created it using HTML and CSS.
+
+**Thoughts**: Challenging project and don't feel very confident in my design skills but got the job done. I should practice more with Frontend Mentor and CSS flexbox to gain confidence in it.
+
+**Link to work**: [Website from scratch](https://github.com/SchoolOfCode/bc13_w3d5_hackathon-aaron-and-mohamed-room-41)
 
 ### Day 16 - Monday 17th October 2022
 
