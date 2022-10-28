@@ -192,6 +192,13 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Link to work**: [Connecting NodeJS library app to SQL](https://github.com/SchoolOfCode/bc13_w5d3_workshop_connecting-sql-to-node-aaron-and-keira-r40) (continued)
 
+### Day 25 - Friday 28th October 2022
+
+**Today's Progress**: Hackathon day, built a REST API with Node.js, Express & PostgreSQL.
+
+**Thoughts**: Went pretty well building out this backend, though I need some more practice with using node-postgres to make debugging faster.
+
+**Link to work**: [Built a REST API with Node.js, Express & PostgreSQL](https://github.com/SchoolOfCode/bc13_w5d5_hackathon-aaron-and-keira-r40)
 
 ---
 TEMPLATE
