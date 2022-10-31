@@ -200,6 +200,14 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Link to work**: [Built a REST API with Node.js, Express & PostgreSQL](https://github.com/SchoolOfCode/bc13_w5d5_hackathon-aaron-and-keira-r40)
 
+
+### Day 26 - Monday 31st October 2022
+
+**Today's Progress**: Learning about the importance of code testing, and trying my first automated tests using Jest.
+
+**Thoughts**: Interesting topic that has seemed important to know when I made PRs for large open-source projects. Also good input from an alumni today to not prematurely optimise with tests until the feature is complete. 
+
+**Link to work**: [Introduction to Jest](https://github.com/SchoolOfCode/bc13_w6d1_workshop_testing-with-jest-room-40-aaron-and-stefan)
 ---
 TEMPLATE
 ### Day XX - XXday DAY MONTH 2022
