@@ -248,6 +248,14 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Link to work**: [Recap for last week](https://github.com/SchoolOfCode/bc13_w6_recap-ajvsol), [Intro to React](https://github.com/SchoolOfCode/bc13_w7d1_react_101_intro_to_react-aaron-and-ben-room-40)
 
+### Day 32 - Tuesday 8th November 2022
+
+**Today's Progress**: Using Create React App, writing React function components, props and children.
+
+**Thoughts**: Nice to now be using React in a React project rather than just plain HTML. Props and children seem a little unintuitive, practice on them.
+
+**Link to work**: [Array methods](https://github.com/SchoolOfCode/bc13_w7d2_workshop_array-methods-aaron-and-ben-room-40), [React Components](https://github.com/SchoolOfCode/bc13_w7d2_workshop_react-components-aaron-and-ben-room-40)
+
 ---
 TEMPLATE
 ### Day XX - XXday DAY MONTH 2022
