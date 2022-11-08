@@ -200,7 +200,6 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Link to work**: [Built a REST API with Node.js, Express & PostgreSQL](https://github.com/SchoolOfCode/bc13_w5d5_hackathon-aaron-and-keira-r40)
 
-
 ### Day 26 - Monday 31st October 2022
 
 **Today's Progress**: Learning about the importance of code testing, and trying my first automated tests using Jest.
@@ -208,6 +207,47 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 **Thoughts**: Interesting topic that has seemed important to know when I made PRs for large open-source projects. Also good input from an alumni today to not prematurely optimise with tests until the feature is complete. 
 
 **Link to work**: [Introduction to Jest](https://github.com/SchoolOfCode/bc13_w6d1_workshop_testing-with-jest-room-40-aaron-and-stefan)
+
+### Day 27 - Tuesday 1st November 2022
+
+**Today's Progress**: Learning a lot about Test-Driven Development and trying this approach to development.
+
+**Thoughts**: I've heard TDD said many a time whilst browsing tech sites, so it's very interesting to try it in practice. Also informative talk from Cypress devs today, excited to try out this tool more tomorrow.
+
+**Link to work**: [Test-driven development](https://github.com/SchoolOfCode/bc13_w6d2_workshop-test-driven-development-room-40-aaron-and-stefan)
+
+### Day 28 - Wednesday 2nd November 2022
+
+**Today's Progress**: Lots of experimenting with Cypress for automating tests like selecting buttons, inputting data in fields, etc. Then experimenting with SuperTest for writing a test suite for an API. 
+
+**Thoughts**: Quite fun learning how to properly automate end-to-end and API testing. I'm getting the syntax well and can see how it's very useful to have these tests rather than having to manually test via a user as well as Postman for example.
+
+**Link to work**: [Introduction to Cypress](https://github.com/SchoolOfCode/bc13_w6d2_workshop_cypress-room-40-aaron-and-stefan), [API Endpoint Testing](https://github.com/SchoolOfCode/bc13_w6d3_workshop_api-testing-with-supertest-room-40-aaron-and-stefan)
+
+### Day 29 - Thursday 3rd November 2022
+
+**Today's Progress**: Learnt about NoSQL databases (especially Couchbase), continuted API testing using SuperTest, and built my own CodeWars-like coding exercise using Jest for tests. 
+
+**Thoughts**: Fun practical way to use tests by creating my own CodeWars-like exercise, which makes me appreciate all the free CodeWars exercises I've been doing so far. Also got to experience a wide range of different problems by testing my colleagues' DIY exercises too.
+
+**Link to work**: [Make my own CodeWars-like code exercises](https://github.com/SchoolOfCode/bc13_w6d4_workshop_make-your-own-codewars-filip-and-miko-miss-the-old-kanye)
+
+### Day 30 - Friday 4th November 2022
+
+**Today's Progress**: Built multiple tests for an Express.js to-do app.
+
+**Thoughts**: Was quite frustrating that we got tripped on two minor bugs including forgetting to explicitly import our environment variables, but building the tests itself with Cypress, Jest and SuperTest went quite well.
+
+**Link to work**: [Test-athon](https://github.com/SchoolOfCode/bc13_w6d5_hackathon-room-40-aaron-and-stefan)
+
+### Day 31 - Monday 7th November 2022
+
+**Today's Progress**: Learnt how to write basic React, JSX and props.
+
+**Thoughts**: I like that JSX is very readable and builds on existing HTML skills. Was a bit tricky initially but a some more time spent on it has allowed me to much better debug how and why code wouldn't work. 
+
+**Link to work**: [Recap for last week](https://github.com/SchoolOfCode/bc13_w6_recap-ajvsol), [Intro to React](https://github.com/SchoolOfCode/bc13_w7d1_react_101_intro_to_react-aaron-and-ben-room-40)
+
 ---
 TEMPLATE
 ### Day XX - XXday DAY MONTH 2022

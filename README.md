@@ -3,6 +3,7 @@
 ## My Logs
 
 * [Round 1 logs - click here to see my progress](r1-log.md)
+
 ### About the #100DaysOfCode Challenge
 
 * [Rules](rules.md)
