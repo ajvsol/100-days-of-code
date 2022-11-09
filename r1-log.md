@@ -256,6 +256,13 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 
 **Link to work**: [Array methods](https://github.com/SchoolOfCode/bc13_w7d2_workshop_array-methods-aaron-and-ben-room-40), [React Components](https://github.com/SchoolOfCode/bc13_w7d2_workshop_react-components-aaron-and-ben-room-40)
 
+### Day 33 - Wednesday 9th November 2022
+
+**Today's Progress**: Learning State in React and utilising the useState hook.
+
+**Thoughts**: This is the hardest topic in the bootcamp so far, and it seems most of the class is struggling similarly. Gonna need to spend even more time outside class focused on this subject to get it internalised.
+
+**Link to work**: [React useState hook](https://github.com/SchoolOfCode/bc13_w7d3_workshop_react-usestate-pt1-aaron-and-ben-room-40), [using useState with onChange](https://github.com/SchoolOfCode/bc13_w7d3_react-usestate-pt2-aaron-and-ben-room-40).
 ---
 TEMPLATE
 ### Day XX - XXday DAY MONTH 2022
