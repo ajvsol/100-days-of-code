@@ -263,6 +263,14 @@ The log of my #100DaysOfCode challenge. Started on September 26, 2022.
 **Thoughts**: This is the hardest topic in the bootcamp so far, and it seems most of the class is struggling similarly. Gonna need to spend even more time outside class focused on this subject to get it internalised.
 
 **Link to work**: [React useState hook](https://github.com/SchoolOfCode/bc13_w7d3_workshop_react-usestate-pt1-aaron-and-ben-room-40), [using useState with onChange](https://github.com/SchoolOfCode/bc13_w7d3_react-usestate-pt2-aaron-and-ben-room-40).
+
+### Day 34 - Thursday 10th November 2022
+
+**Today's Progress**: Learning spread and slice immutable methods on arrays, and using the map method to create multiple components with unique ids.
+
+**Thoughts**: Today went much better. Grasped using immutable methods like the spread operator and slice on arrays quite quickly, as well as using map on React components. Feel I've fully grasped props now and children. Am feeling a lot more confident about the hackathon tomorrow, which I didn't expect to be.
+
+**Link to work**: [Immutable array methods](https://github.com/SchoolOfCode/bc13_w7d4_workshop_immutable-updates-aaron-and-ben-room-40), [React lists and keys](https://github.com/SchoolOfCode/bc13_w7d4_react_lists-and-keys-workshop-aaron-and-ben-room-40)
 ---
 TEMPLATE
 ### Day XX - XXday DAY MONTH 2022
